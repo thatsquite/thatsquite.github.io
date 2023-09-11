@@ -1,1 +1,1 @@
-License: https://bootstrapmade.com/license/
+Made with bootstrapmade.com
